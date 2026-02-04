@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently working on software projects with AI and data-driven components  
-- 🤝 Open to collaborating on software engineering, AI/LLM, and data analytics projects  
-- 🛠 Interested in system design, scalable architectures, and data-informed decision making  
-- 🌱 Learning data structures & algorithms, core software engineering principles, AI/ML, and data analytics fundamentals  
-- 💬 Ask me about software design, DSA, AI-powered systems, or data analysis 
-- ⚡ Fun fact: I enjoy refactoring code almost as much as writing it — clean code matters
+- 🚀 Currently building software projects that incorporate AI and data-driven features
+- 🤝 Open to collaborating on software engineering, AI/LLM, and data analytics work
+- 🛠 Strong interest in system design, scalable architectures, and making decisions backed by data
+- 🌱 Actively strengthening fundamentals in data structures & algorithms, core software engineering, AI/ML, and data analytics
+- 💬 Happy to chat about software design, DSA, AI-powered systems, or data analysis
+- ⚡ Fun fact: I genuinely enjoy refactoring—clean, readable code matters just as much as shipping
 
 ---
 
