@@ -1,4 +1,4 @@
-# Hi, I'm Rajlalith 👋
+# Hi, I'm Raj Lalith 👋
 
 🚀 Software Engineering | 🤖 AI & LLM Enthusiast | 💡 Problem Solver
 
